@@ -1,0 +1,6 @@
+{
+  "presets": [
+    "@babel/preset-env",          // Transpile modern JavaScript to ES5
+    "@babel/preset-typescript"    // Transpile TypeScript to JavaScript (if you're using TypeScript)
+  ]
+}
